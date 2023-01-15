@@ -1,0 +1,11 @@
+D:\OneDrive - Hanoi University of Science and Technology\3年\Thuật toán ứng dụng\LAb_1\Tham lam\greedy_contruction.cpp
+#procedure Greedy ()
+# { Giả sử C là tập các ứng cử viên
+#  S = rỗng , S là lời giải xây dựng theo thuật toán
+# while (C != rỗng && ! Solution(S)){
+# x <- Select (C)
+# C = C/x
+# if (Feasible (S & x)) S = S & x
+# }
+#  if  Solution (S) return S
+# }

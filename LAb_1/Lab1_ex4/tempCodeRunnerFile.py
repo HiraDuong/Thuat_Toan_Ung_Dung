@@ -1,0 +1,1 @@
+print(str(Max_area)+" "+str(k)) 
